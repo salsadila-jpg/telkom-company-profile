@@ -29,4 +29,17 @@ require 'includes/header.php';
     </div> 
 
 </section>
+
+<section class="section">
+    <div class="container">
+        <h2>Fokus Pembelajaran</h2>
+        <p>Melalui proyek praktikum ini, mahasiswa mempelajari:</p>
+
+        <ul>
+            <li>Pengembangan website menggunakan PHP native.</li>
+            <li>Pengelolaan data menggunakan MySQL.</li>
+            <li>Penggunaan Git dan GitHub untuk version control.</li>
+        </ul>
+    </div>
+</section>
 <?php require 'includes/footer.php'; ?> 
