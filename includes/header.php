@@ -1,4 +1,4 @@
-
+```php
 <?php
 
 $pageTitle = $pageTitle ?? 'Telkom University - Praktikum Web';
@@ -48,3 +48,4 @@ $currentPage = basename($_SERVER['PHP_SELF']);
 </header>
 
 <main>
+```
